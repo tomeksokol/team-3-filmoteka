@@ -1,0 +1,51 @@
+[]
+[Filmoteka]
+Tomasz Mazur*
+Artur Krasniewski
+Joanna Golofit
+Damian Brzezinski
+
+[TeamName.EventBooster]
+Kamil Witkowski*
+Szatkowski Pawel
+Przemyslaw Kaminski
+Michal Dziuba
+
+["Clean Code Squad".Filmoteka]
+Tomasz Sokol*
+Sebastian Hanusiak
+Bielicki Michal
+Patrycja Nowakowska
+
+
+[TeamName.Filmoteka]
+team = [
+	"Karolina Scieszko*",
+	"Grzegorz Hamala",
+	"Jakub Beltowski",
+	"Bartosz Swiderski"
+]
+
+
+[Team work]
+1. Leader + Scrum Master
+2. JS
+3. JS
+4. HTML/CSS/JS
+# 5. API documentation
+
+
+4x API call (GET)
+
+2x API call (Trending, Searched)
+2x API call (Genres, One Movie)
+
+
+
+[Filmoteka]
+1. LocalStorage:
+  1. TrendingMovies (incl. pages) (1 API call)
+  2. SearchedMovies (incl. pages) (multiple API calls)
+  3. Movie (multiple API calls)
+  4. Genres (1 API call)
+  5. TeamMembers [read-only]
