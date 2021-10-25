@@ -1,5 +1,5 @@
 {
-  "name": "projekt_JS-01",
+  "name": "clean_code_squad_filmoteka",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,9 +8,14 @@
     "build": "snowpack build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomeksokol/team-3-filmoteka.git"
+  },
   "keywords": [],
-  "author": "Mikolaj K <mikolaj.k@notgoogle.com>",
+  "author": "GOIT",
   "license": "ISC",
+  "homepage": "https://tomeksokol.github.io/team-3-filmoteka/",
   "devDependencies": {
     "snowpack": "^3.8.8"
   }
