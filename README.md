@@ -1,11 +1,7 @@
-# Description
+A website that searches for popular movies and allows you to create your own movie library.
 
-A starter HTML/TS project based on Snowpack.
+Technologies and solutions used: HTML, CSS, JavaScript, Public API, localStorage, pagination, modal window.
 
-# Usage
+Layout: https://www.figma.com/file/lA5plQSUEbIKOSJHfuPpXO/Filmoteka?node-id=0%3A1;
 
-Run `npm i` in the root of the project.
-
-# .ts types
-
-You will need to dig into [Snowpack Typescript plugin](https://www.npmjs.com/package/@snowpack/plugin-typescript) to take full advantage of Typescript.
+Tech requirements: https://docs.google.com/spreadsheets/d/10zvzgn9xr8sKl-9GfjRLXX2yWJbdqe-oPdMjflk8YS4/edit#gid=0;
